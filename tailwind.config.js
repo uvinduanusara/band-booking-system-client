@@ -68,7 +68,6 @@ module.exports = {
           ring: 'hsl(var(--sidebar-ring))'
         }
       },
-      // NEW: Add custom font families here for reusability
       fontFamily: {
         montserrat: ['Montserrat', 'sans-serif'],
         poppins: ['Poppins', 'sans-serif'],
